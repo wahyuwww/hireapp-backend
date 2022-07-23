@@ -122,25 +122,25 @@ https://documenter.getpostman.com/view/10953547/UyxbqpvR#e9db513a-091a-42dc-ac07
     <tr>
       <td align="center">
         <a href="https://github.com/muhislah">
-          <img width="150" style="background-size: contain;" src="https://avatars.githubusercontent.com/u/32208840?v=4"><br/>
+          <img width="250" style="background-size: contain;" src="https://avatars.githubusercontent.com/u/32208840?v=4"><br/>
           <b>Muhamad Islahuddin</b>
         </a>
       </td>
        <td align="center">
         <a href="https://github.com/Irfanjulian">
-          <img width="150" src="https://avatars.githubusercontent.com/u/103256648?v=4" alt="Irfan julian Ibrahim"><br/>
+          <img width="250" src="https://avatars.githubusercontent.com/u/103256648?v=4" alt="Irfan julian Ibrahim"><br/>
           <b>Irfan julian Ibrahim</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/wahyuwww">
-          <img width="150" src="https://avatars.githubusercontent.com/u/60133853?v=4" alt="Wahyu Dwi Purwanto"><br/>
+          <img width="250" src="https://avatars.githubusercontent.com/u/60133853?v=4" alt="Wahyu Dwi Purwanto"><br/>
           <b>Wahyu Dwi Purwanto</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/sendialamsyah">
-          <img width="150" src="https://avatars.githubusercontent.com/u/103249655?v=4" alt="sendialamsyah"><br/>
+          <img width="250" src="https://avatars.githubusercontent.com/u/103249655?v=4" alt="sendialamsyah"><br/>
           <b>sendialamsyah</b>
         </a>
       </td>
